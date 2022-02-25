@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/gautamkmahato/zomato_clone/static/css/main.ecfd29ba.css",
+    "main.js": "/gautamkmahato/zomato_clone/static/js/main.2413366f.js",
+    "static/media/delivery2.png": "/gautamkmahato/zomato_clone/static/media/delivery2.354262e78948076abba1.png",
+    "static/media/dining2.png": "/gautamkmahato/zomato_clone/static/media/dining2.c1499eac1cb266782890.png",
+    "static/media/checked.png": "/gautamkmahato/zomato_clone/static/media/checked.861324da99611e46145f.png",
+    "static/media/beer.png": "/gautamkmahato/zomato_clone/static/media/beer.2f8be126db2ee03222b6.png",
+    "index.html": "/gautamkmahato/zomato_clone/index.html",
+    "main.ecfd29ba.css.map": "/gautamkmahato/zomato_clone/static/css/main.ecfd29ba.css.map",
+    "main.2413366f.js.map": "/gautamkmahato/zomato_clone/static/js/main.2413366f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecfd29ba.css",
+    "static/js/main.2413366f.js"
+  ]
+}
