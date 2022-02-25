@@ -1,0 +1,93 @@
+[
+    {
+        "id": 2,
+        "title": "McDonald's",
+        "time": "40 min",
+        "image": "https://b.zmtcdn.com/data/brand_creatives/logos/bb30587d1148b6ab628a61945f64bf88_1625164768.png?output-format=webp",
+        "quantity": 1
+    },
+    {
+        "id": 3,
+        "title": "Burger King",
+        "time": "30 min",
+        "image": "https://b.zmtcdn.com/data/brand_creatives/logos/6a11fd0f30c9fd9ceaff2f5b21f61d23_1617187857.png?output-format=webp",
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "title": "Subway",
+        "time": "45 min",
+        "image": "https://b.zmtcdn.com/data/brand_creatives/logos/396a89cdb1f7a999717b01aa98da7017_1631990846.png?output-format=webp",
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "title": "Domino's Pizza",
+        "time": "20 min",
+        "image": "https://b.zmtcdn.com/data/brand_creatives/logos/72093a8b7046c690006fab2a9e269bde_1630661376.png",
+        "quantity": 1
+    },
+    {
+        "id": 3,
+        "title": "KFC",
+        "time": "20 min",
+        "image": "https://b.zmtcdn.com/data/brand_creatives/logos/466f8fc74274145f3b21795c3d21816d_1589433545.png",
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "title": "Junction Restaurant",
+        "time": "20 min",
+        "image": "https://b.zmtcdn.com/data/brand_creatives/logos/46d0cd53b5648c33a8dfc1d155d2221e_1611320217.png",
+        "quantity": 1
+    },
+    {
+        "id": 5,
+        "title": "Pizza Hut",
+        "time": "20 min",
+        "image": "https://b.zmtcdn.com/data/brand_creatives/logos/9742d760cf95e9dbf9b869ca9c753f8f_1613212132.png",
+        "quantity": 1
+    },
+    {
+        "id": 6,
+        "title": "Delhi Darbar",
+        "time": "20 min",
+        "image": "https://b.zmtcdn.com/data/brand_creatives/logos/61c0f0caadc8d700980f47cfeee4b6eb_1623837109.png",
+        "quantity": 1
+    },
+    {
+        "id": 7,
+        "title": "Moti Mahal",
+        "time": "20 min",
+        "image": "https://b.zmtcdn.com/data/brand_creatives/logos/e2879d4bbb67224fcc7576294a835535_1611319257.png",
+        "quantity": 1
+    },
+    {
+        "id": 8,
+        "title": "The Belgian Waffle Co.",
+        "time": "20 min",
+        "image": "https://b.zmtcdn.com/data/brand_creatives/logos/9d82e18f55272a130905e67ee55440dc_1630687233.png",
+        "quantity": 1
+    },
+    {
+        "id": 9,
+        "title": "Chef Corner",
+        "time": "20 min",
+        "image": "https://b.zmtcdn.com/data/brand_creatives/logos/d0fb28d79b967c2103c75a804d626a02_1611320265.png",
+        "quantity": 1
+    },
+    {
+        "id": 10,
+        "title": "Junction",
+        "time": "20 min",
+        "image": "https://b.zmtcdn.com/data/brand_creatives/logos/46d0cd53b5648c33a8dfc1d155d2221e_1611320217.png",
+        "quantity": 1
+    },
+    {
+        "id": 1,
+        "title": "Novelty Multicuisine Restaurant",
+        "time": "20 min",
+        "image": "https://b.zmtcdn.com/data/brand_creatives/logos/f013ab700bc169a2f62033254d4a57ec_1611319212.png",
+        "quantity": 1
+    }
+]

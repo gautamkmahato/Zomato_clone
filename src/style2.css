@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.row{
+    display: flex;
+    width: 100%;
+    margin-left: 9%;
+}
+.row>* {
+    flex-shrink: 0;
+    width: 100%;
+    max-width: 300px;
+    padding: 20px;
+    margin-right: 40px;
+}
+.card{
+    width: 300px;
+    border: none;
+    border-bottom: 1px solid rgb(194, 194, 194);
+}
+.card:hover{
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+.card-body-upper{
+    display: flex;
+}
+.card-body-upper p{
+    width: 33.33%;
+    margin-top: -35px;
+    margin-left: 0.5rem;
+}
+.card-body-lower{
+    display: flex;
+}
+.card-body-lower .card-body-lower-subtitle{
+    width: 60%;
+    margin-top: -10px;
+}
+.card-body-lower .card-price{
+    width: 40%;
+    margin-top: -8px;
+}
+.card-title{
+    display: flex;
+}
+.card-title .card-title-header{
+    width: 80%;
+}
+.card-title .card-title-rating{
+    width: 20%;
+}
+.card-body-footer{
+    display: flex;
+    margin-top: -10px;   
+}
+.card-image img{
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    transform: none;
+    border-radius: 15px;
+    filter: unset;
+    transition: opacity 0.25s ease 0s, transform 0.25s ease 0s;
+}
+.card{
+    border-radius: 15px;
+}
+.card-container-header{
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.card-title-header{
+    font-weight: 500;
+    text-align: left;
+    font-size: 1rem;
+    font-family: 'Roboto', sans-serif;
+    max-width: 100%;
+    color: rgb(82, 82, 82);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin: 0.6rem 0px 0.6rem;
+}
+.card-title-rating{
+    margin-top: 0.6rem;
+}
+
+.card-rating{
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    background-color: rgb(36, 150, 63);
+    color: rgb(255, 255, 255);
+    font-size: 0.8rem;
+    font-weight: 500;
+    height: 1.3rem;
+    min-width: 2.6rem;
+    padding: 0px 0px 0px 0.3rem;
+    border-radius: 0.3rem;
+    border: 1px solid rgb(36, 150, 63);
+    position: absolute;
+    right: 0;
+}
+.card-rating-font{
+    font-size: 8px;
+    padding-left: 3px;
+}
+.card-time{
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    background-color: rgb(238, 238, 238);
+    color: rgb(46, 46, 46);
+    font-size: 12px;
+    min-width: 2.6rem;
+    padding: 0.1rem 0.4rem;
+    border-radius: 0.3rem;
+    border: none;
+    backdrop-filter: blur(0.4rem);
+    position: absolute;
+    right: 0;
+    margin-right: 8px;
+}
+.card-price{
+    text-align: center;
+    color: rgb(109, 109, 109);
+    font-size: 14px;
+    padding-left: 36px;
+}
+.card-discount{
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    background-color: rgb(37, 111, 239);
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    min-width: 2.6rem;
+    padding: 0px 0.4rem;
+    border-radius: 0.3rem;
+    border: none;
+    position: absolute;
+    left: 0;
+    
+}
+.card-cuisine{
+    position: absolute;
+    left: 0;
+    color: rgb(88, 88, 88);
+    font-size: 14px;
+}
+.card-cuisine span{
+    color: rgb(255, 83, 121);
+}
+.card-body-footer-title{
+    font-size: 13px;
+    margin-top: 5px;
+    margin-left: 10px;
+    color: rgb(124, 124, 124);
+}
+.card-body-footer-image span img{
+    width: 24px;
+}
+

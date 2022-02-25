@@ -1,0 +1,218 @@
+.heading-section{
+    display: flex;
+    margin-left: 8%;
+}
+title{
+    width: 20%;
+}
+.search-bar{
+    width: 60%;
+}
+.button{
+    width: 20%;
+}
+.title img{
+    max-width: 9rem;
+    height: 1.8rem;
+    display: block;
+    cursor: pointer;
+}
+
+.search-box{
+    display: flex;
+    width: 100%;
+    border: 2px solid black;
+    padding: 10px;
+    align-items: center;
+    height: 3.4rem;
+    background: rgb(255, 255, 255);
+    border-radius: 0.8rem;
+    box-shadow: rgb(28 28 28 / 8%) 0px 2px 8px;
+    border: 1px solid rgb(232, 232, 232);
+}
+
+.location-input form input{
+    width: 17rem;
+    border: none;
+    outline: navajowhite;
+    margin-right: 10px;
+}
+.recipe-input input{
+    width: 20rem;
+    border: none;
+    outline: navajowhite;
+    margin-right: 10px;
+}
+.location-icon i{
+    margin-right: 10px;
+    color: rgb(255, 103, 136);
+}
+.search-divider{
+    font-size: 30px;
+    color: rgb(177, 177, 177);
+    margin-right: 15px;
+}
+.recipe-button{
+    margin-right: 10px;
+    cursor: pointer;
+}
+::placeholder {
+    color: rgb(150, 150, 150);
+    font-family: Okra,Helvetica,sans-serif;
+}
+
+.title{
+    margin-top: 30px;
+}
+.search-bar{
+    padding: 1.5rem;
+}
+.button{
+    margin-top: 30px;
+}
+.button .button1{
+    width: 80px;
+    padding: 8px;
+    margin-left: 15px;
+    border: 2px solid rgb(255, 109, 145);
+    border-radius: 22px;
+    background-color: white;
+    color: rgb(80, 80, 80);
+    font-family: Okra,Helvetica,sans-serif;
+    font-size: 14px;
+}
+.button .button2{
+    width: 90px;
+    padding: 8px;
+    margin-left: 15px;
+    background-color: white;
+    border: 2px solid rgb(255, 109, 145);
+    color: rgb(80, 80, 80);
+    font-family: Okra,Helvetica,sans-serif;
+    border-radius: 22px;
+    font-size: 14px;
+}
+
+.second-header{
+    display: flex;
+    border-bottom: 1px solid rgb(240, 240, 240);
+    margin: 20px 10px 20px 100px;
+}
+.links{
+    display: flex;
+}
+.links div{
+    -webkit-box-align: center;
+    align-items: center;
+    margin-right: 30px;
+}
+.delivery{
+    border-bottom: 3px solid rgb(255, 50, 111);
+}
+.delivery button{
+    background-color: white;
+    width: 200px;
+    height: 90px;
+    border: none;
+    
+}
+.delivery button:hover{
+    background-color: white;
+    width: 200px;
+    height: 90px;
+    border-bottom: 3px solid rgb(255, 50, 111);
+    
+}
+.delivery button img{
+    height: 3.5rem;
+    width: 3.5rem;
+    margin-right: 0.9rem;
+    border-radius: 50%;
+    background: rgb(252, 238, 192);
+
+}
+.delivery button span{
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: rgb(239, 79, 95);
+}
+
+/* h */
+
+.dining button{
+    background-color: white;
+    width: 200px;
+    height: 90px;
+    border: none;
+    
+}
+.dining button:hover{
+    background-color: white;
+    width: 200px;
+    height: 90px;
+    border-bottom: 3px solid rgb(255, 50, 111);
+    
+}
+.dining button img{
+    height: 3.5rem;
+    width: 3.5rem;
+    margin-right: 0.9rem;
+    border-radius: 50%;
+    background: rgb(236, 236, 236);
+
+}
+.dining button span{
+    font-size: 1.2rem;
+    font-weight: 400;
+    color: rgb(65, 65, 65);
+}
+
+/* h */
+
+.beer button{
+    background-color: white;
+    width: 200px;
+    height: 90px;
+    border: none;
+    
+}
+.beer button:hover{
+    background-color: white;
+    width: 200px;
+    height: 90px;
+    border-bottom: 3px solid rgb(255, 50, 111);
+    
+}
+.beer button img{
+    height: 3.5rem;
+    width: 3.5rem;
+    margin-right: 0.9rem;
+    border-radius: 50%;
+    background: rgb(236, 236, 236);
+
+}
+.beer button span{
+    font-size: 1.2rem;
+    font-weight: 400;
+    color: rgb(65, 65, 65);
+}
+
+/* third-header */
+.btn {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(184, 184, 184);
+    border-radius: 10px;
+    color: rgb(180, 180, 180);
+    padding: 12px 16px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.button-section{
+    margin-left: 80px;
+}
+.button-groups{
+    margin: 10px;
+}
+.button-groups .btn{
+    margin: 10px;
+}
